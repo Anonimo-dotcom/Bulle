@@ -1,0 +1,21 @@
+{
+  "background_color": "#021c59",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Bulle",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Bulle",
+  "start_url": "/",
+  "theme_color": "#021c59",
+  "icons": [
+    {
+      "src": "iconeIEP.png",
+      "type": "image/png",
+      "sizes": "209x186"
+    }
+  ],
+  "id": "Bulle",
+  "description": "Aplicativo para calcular notas",
+  "lang": "pa"
+}
